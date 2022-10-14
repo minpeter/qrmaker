@@ -10,3 +10,6 @@ go build -o .
 ```
 ./qrmark <URL LINK>
 ```
+
+## screenshot
+![image](https://user-images.githubusercontent.com/62207008/195777897-0634fca8-a70a-44ec-9923-0a5355ebf0e8.png)
